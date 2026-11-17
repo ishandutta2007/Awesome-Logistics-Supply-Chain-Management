@@ -4,7 +4,7 @@
 
 # 🚚 Awesome Logistics & Supply Chain Management (SCM) 📦
 
-[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Logistics-Supply-Chain-Management?style=flat-square&color=gold)](https://github.com/ishandutta2007/Awesome-Logistics-Supply-Chain-Management/stargazers)
 [![Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Logistics-Supply-Chain-Management?style=flat-square&color=blue)](https://github.com/ishandutta2007/Awesome-Logistics-Supply-Chain-Management/network/members)
 [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-Logistics-Supply-Chain-Management?style=flat-square&color=green)](LICENSE)
@@ -27,6 +27,7 @@
 - [💻 Open-Source Logistics & SCM Projects](#-open-source-logistics--scm-projects)
 - [🛠️ Architectural Building Blocks & Frameworks](#️-architectural-building-blocks--frameworks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
 - [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
@@ -162,9 +163,19 @@ Contributions and new platform additions are warmly welcomed! Help make this eco
 
 ---
 
+## 💖 Support
+
+If you find this curated directory helpful for your projects, operations, or research, please consider showing your support:
+- ⭐ **Star** this repository on GitHub to help others discover it!
+- 🍴 **Fork** and contribute new tools, libraries, or updates.
+- 📢 **Share** it with fellow logistics engineers, supply chain specialists, and developers.
+- ☕ **Buy me a coffee**: Support ongoing maintenance and curated open-source research via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## 📈 Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Logistics-Supply-Chain-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Logistics-Supply-Chain-Management&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Logistics-Supply-Chain-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Logistics-Supply-Chain-Management&type=date&legend=top-left)
 
 ---
 
