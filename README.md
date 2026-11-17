@@ -82,7 +82,7 @@ Modern logistics tech stacks link physical operations (ocean freighters, intermo
 
 ## 💻 Open-Source Logistics & SCM Projects
 
-*Active open-source platforms, ERP distribution engines, routing solvers, and telematics systems for Logistics and Supply Chain Management, ranked in descending order by **GitHub Star Count**.*
+*Active open-source platforms, ERP distribution engines, routing solvers, and telematics systems for Logistics and Supply Chain Management, ranked in descending order by **GitHub Stars_Count**.*
 
 - 🌟 **[Odoo Community](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   Comprehensive open-source enterprise suite featuring full-featured Warehouse Management (WMS), Inventory barcode scanning, automated replenishment, cross-docking, multi-warehouse routing rules, and multi-carrier delivery tracking connectors.
